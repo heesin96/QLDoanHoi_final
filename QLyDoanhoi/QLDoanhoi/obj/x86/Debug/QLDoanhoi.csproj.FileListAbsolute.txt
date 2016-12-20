@@ -1,2 +1,0 @@
-E:\QLDoanhoi\QLDoanhoi\bin\Debug\QLDoanhoi.exe.config
-E:\QLyDoanhoi\QLDoanhoi\bin\Debug\QLDoanhoi.exe.config
