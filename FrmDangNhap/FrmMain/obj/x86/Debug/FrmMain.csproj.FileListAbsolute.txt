@@ -1,0 +1,9 @@
+c:\FrmMain\FrmMain\obj\x86\Debug\FrmMain.FrmMain.resources
+c:\FrmMain\FrmMain\obj\x86\Debug\FrmMain.Properties.Resources.resources
+c:\FrmMain\FrmMain\obj\x86\Debug\FrmMain.csproj.GenerateResource.Cache
+c:\FrmMain\FrmMain\bin\Debug\FrmMain.exe
+c:\FrmMain\FrmMain\bin\Debug\FrmMain.pdb
+c:\FrmMain\FrmMain\obj\x86\Debug\FrmMain.exe
+c:\FrmMain\FrmMain\obj\x86\Debug\FrmMain.pdb
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.exe
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.pdb

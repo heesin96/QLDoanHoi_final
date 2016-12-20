@@ -1,0 +1,8 @@
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.exe
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.pdb
+C:\GitToUp\FrmMain\FrmMain\bin\Debug\FrmMain.exe
+C:\GitToUp\FrmMain\FrmMain\bin\Debug\FrmMain.pdb
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.FrmMain.resources
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.Properties.Resources.resources
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\QLyDoanHoi.csproj.GenerateResource.Cache
+C:\GitToUp\FrmMain\FrmMain\obj\x86\Debug\FrmMain.FrmChinh.resources
