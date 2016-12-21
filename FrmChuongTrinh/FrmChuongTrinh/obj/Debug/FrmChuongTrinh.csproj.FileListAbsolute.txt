@@ -1,0 +1,9 @@
+C:\FrmChuongTrinh\FrmChuongTrinh\bin\Debug\FrmChuongTrinh.exe.config
+C:\FrmChuongTrinh\FrmChuongTrinh\bin\Debug\FrmChuongTrinh.exe
+C:\FrmChuongTrinh\FrmChuongTrinh\bin\Debug\FrmChuongTrinh.pdb
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.csprojResolveAssemblyReference.cache
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.FrmChuongTrinh.resources
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.Properties.Resources.resources
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.csproj.GenerateResource.Cache
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.exe
+C:\FrmChuongTrinh\FrmChuongTrinh\obj\Debug\FrmChuongTrinh.pdb
